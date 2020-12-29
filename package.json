@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "@prisma/client": "^2.13.1",
+    "apollo-server-micro": "^2.19.1",
     "next": "10.0.4",
     "next-auth": "^3.1.0",
+    "nexus": "^1.0.0",
+    "nexus-plugin-prisma": "^0.27.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-query": "^3.5.5"
